@@ -6,11 +6,11 @@
 ## :globe_with_meridians: Installation 
    To clone the project via HTTPS run:
   
-       git clone https://github.com/Brenox889/City-Weather.git   
+       git clone https://github.com/Brenox889/ChatApp.git   
    
    SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using the command:
   
-       git clone git@github.com:Brenox889/City-Weather.git
+       git clone git@github.com:Brenox889/ChatApp.git
        
    **install dependencies**
    
@@ -34,4 +34,4 @@
  - [Socket.io](https://socket.io/)
  ---
  
- Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :bat:
+ Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :rocket:
