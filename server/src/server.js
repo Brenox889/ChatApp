@@ -1,8 +1,8 @@
-import express from 'express'
-import socketio from 'socket.io'
-import http from 'http'
+const express = require('express')
+const socketio = require('socket.io')
+const http = require('http')
 
-import routes from './routes'
+const routes = require('./routes')
 
 const PORT = process.env.PORT || 5000
 
