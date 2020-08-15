@@ -28,7 +28,7 @@
  ---
  ## :robot: Technologies 
  
- - [TypeScript](https://www.typescriptlang.org/)
+ - [JavaScript](https://www.javascript.com/)
  - [ReactJS](https://pt-br.reactjs.org/)
  - [NodeJS](https://nodejs.org/en/)
  - [Socket.io](https://socket.io/)
