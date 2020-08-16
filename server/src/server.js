@@ -27,6 +27,14 @@ io.on('connection',(socket)=>{
         callback()
     })
 
+    socket.on('sendMessage', (message, callback)=>{
+        const user = getUser(socket.id)
+
+        io.to(user.room).emit('message', {user:'admin', text:`${user.name}, has joined`})
+
+        callback()
+    })
+
     socket.on('disconnect',()=>{
         console.log('User had left!!!')
     })
