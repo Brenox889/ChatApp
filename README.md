@@ -34,4 +34,4 @@
  - [Socket.io](https://socket.io/)
  ---
  
- Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :rocket:
+ Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes) :rocket:
